@@ -1,6 +1,6 @@
 # Sistema de Pedidos de Restaurante
 
-**Estudiante:** [Escriba aquí su nombre completo]  
+**Estudiante:** Anthony Jiménez  
 **Curso:** Organización de Archivos y Estructura de Datos (ISB-08)  
 **Proyecto elegido:** Opción 4 — Pedidos de restaurante  
 **Lenguaje:** Python 3.13  
