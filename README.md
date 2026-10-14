@@ -61,17 +61,4 @@ Para probar pedidos, seleccione un producto en el menú, escriba una cantidad en
 
 Ejemplo: dos hamburguesas a ₡2.500 cada una deben generar un total de ₡5.000.
 
-## Publicación en GitHub
 
-1. Inicie sesión en GitHub y cree un repositorio propio llamado `SistemaPedidosRestaurante`.
-2. Puede dejarlo público para que el profesor y los compañeros puedan acceder.
-3. Suba `main.py`, `estructuras.py` y `README.md`.
-4. Abra el repositorio y copie su URL.
-5. Publique esa URL en el foro junto con su nombre, el proyecto elegido y la descripción breve de la solución.
-
-## Descripción breve para el foro
-
-**Nombre:** [Su nombre completo]  
-**Proyecto:** Opción 4 — Pedidos de restaurante.  
-**Descripción:** Desarrollé una aplicación de escritorio en Python para administrar productos del menú y pedidos activos. Utiliza un vector para contar productos por categoría, una lista dinámica para administrar el menú y una lista enlazada propia para registrar, buscar, recorrer y retirar pedidos atendidos.  
-**Repositorio:** [Pegue aquí la URL de su repositorio de GitHub]
